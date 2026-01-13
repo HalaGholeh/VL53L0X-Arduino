@@ -13,7 +13,7 @@ This project uses the **VL53L0X Time-of-Flight (ToF) LiDAR sensor** with Arduino
 
 | Sensor Pin | Arduino Pin |
 |------------|-------------|
-| VIN        | 5V          |
+| VIN        | 3.3V          |
 | GND        | GND         |
 | SDA        | A4          |
 | SCL        | A5          |
