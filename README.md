@@ -41,7 +41,7 @@ This project uses the **VL53L0X Time-of-Flight (ToF) LiDAR sensor** with Arduino
 
 ## Author
 
-Made by **Hala Gholeh**  
+**Hala Gholeh**  
 📧 Contact: hala.gholeh2002@gmail.com
 🐦 LinkedIn: www.linkedin.com/in/hala-gholeh-96a003256
 
